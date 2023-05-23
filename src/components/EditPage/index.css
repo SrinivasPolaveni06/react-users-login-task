@@ -1,0 +1,29 @@
+
+.main-container5{
+    background-color: #fff;
+    border-radius: 10px;
+    
+    margin-right: 0px;
+    margin-top: 20px;
+    
+    /* min-height: 30vh; */
+    
+}
+.signupButton{
+    border: 0px;
+    background-color: transparent;
+    color: #050EBF ;
+    font-weight: 600;
+    font-size: 17px;
+}
+.App{
+    background-color: silver;
+    /* min-height: 40vh; */
+    background-size: cover;
+  }
+
+  .App1{
+    
+    min-height: 40vh;
+    background-size: cover;
+  }

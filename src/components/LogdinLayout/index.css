@@ -1,0 +1,7 @@
+.userIcon{
+    background-color: transparent;
+}
+ul>a.active>li{
+    background-color: #646BF0 ;
+    color:white !important;
+}
